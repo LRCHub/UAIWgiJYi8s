@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "BATTER UP (7 ver.)",
   "base_artist": "BABYMONSTER",
-  "createdAt": "2026-02-08T09:41:26.899962Z",
+  "createdAt": "2026-03-17T19:36:03.362907Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "BABYMONSTER",
       "has_synced": false,
       "path": "select/pl_01_BATTER_UP_BABYMONSTER.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "BATTER UP (7 ver.)",
+      "artist": "BABYMONSTER",
+      "has_synced": false,
+      "path": "select/localdb_01_BATTER_UP_(7_ver.)_BABYMONSTER.txt",
+      "repo_name": "UAIWgiJYi8s"
     }
   ]
 }
